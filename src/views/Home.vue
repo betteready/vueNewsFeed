@@ -1,3 +1,3 @@
 <template>
-  <h1>Harvey Anthony P. Abrasaldo</h1>
+  <h1>Harvey Anthony P Abrasaldo</h1>
 </template>
